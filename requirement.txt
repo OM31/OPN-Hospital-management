@@ -1,1 +1,4 @@
-system Requirements 
+System Requirements 
+Windows - 64-bit Windows 8/10/11
+RAM - 4 GB RAM or more
+HardDrive - 4 GB of available disk space minimum
